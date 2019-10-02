@@ -1,0 +1,207 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.head{
+    width: 170px;
+    height: auto;
+    margin: auto;
+    
+}
+.head2{
+    width: 170px;
+    height: auto;
+    margin: auto;
+    
+}
+.azulF{
+    color:#155791;
+    
+}
+.azulC{
+    color: #1275AD;
+}
+.rojo{
+    color: red;
+}
+.imagen{
+    width: 90px;
+    height: auto;
+    padding: 0px;
+    margin: 0px 190px;
+}
+.nav-link{
+    margin: 0px 12px;
+}
+.nav-link:hover{
+    background-color: aliceblue;
+    border-radius: 9px;
+}
+.menu:hover{
+    color: red;
+}
+.lineaAzul{
+   background-color:#155791;
+   height: 5px;;
+}
+.boton{
+background-color: #155791;
+color: white;
+border-radius: 15px;
+width: 250px;
+margin: 0px 40px;
+}
+.banda1{
+    /* background-image: url('imagenes/mapa_banda.png'); */
+    background-color: rgb(248, 248, 248);
+}
+.mapa{
+    width: 60%;
+    height: auto;
+}
+.frase{
+    font-size: 30px;
+    margin: 0% 20%;
+}
+.cita{
+    margin: 0% 20%;
+}
+.nosotros{
+    margin: 0px 50px;
+    text-align: justify;
+}
+.imgNosotros{
+width:90%;
+height: auto;
+}
+.imgMedio{
+    width: 30px;
+    height: 20px;
+}
+.icono{
+    width: 20%;
+    height: auto;
+}
+.iconoGas{
+    width: 20%;
+    height: auto;
+}
+.flecha{
+    width: 30px;
+    height: auto;
+    margin: 0% 50px;
+}
+.centro{
+    text-align: center;
+}
+.centrado{
+    margin:10px auto;
+    display:block;
+}
+.ubicacion{
+    width: 40px;
+    height: auto;
+}
+.texto{
+    margin: 0px 30px;
+    font-size: 35px;
+}
+
+.redes{
+    width: 40px;
+    height: auto;
+    margin: 0px 10px; 
+}
+.contacto{
+    width: 30px;
+    height: 30px;
+    margin: 0px 50px;
+}
+.copy{
+    font-size: 6px;
+}
+.maps{
+    width: 330px;
+    height:500px;
+}
+.pie{
+    width: 60px;
+    height: auto;
+    margin: auto;
+}
+.pie2{
+    width: 60px;
+    height: auto;
+    margin: auto;
+}
+.texto3{
+    font-size: 3px;
+}
+.pequeños{
+    height: 15px;
+    width: auto;
+}
+.lineav{
+    background-color: #1275AD;
+    height: 10px;
+    width: 1px;;
+}
+@media (min-width:1024px){
+    .pequeños{
+        height: 35px;
+        width: auto;
+    }
+    .lineav{
+        background-color: #1275AD;
+        height: 30px;
+        width: 3px;;
+    }
+    .pie{
+        width: 300px;
+        height: auto;
+        margin: auto;
+    }
+    .pie2{
+        width: 300px;
+        height: auto;
+        margin: auto;
+    }
+    .texto3{
+        font-size: 10px;
+    }
+    .frase{
+     font-size: 60px;
+    }
+    
+.head{
+    width: 160px;
+    height: auto;
+}
+.copy{
+    font-size: 12px;
+}
+.boton{
+    background-color: #155791;
+    color: white;
+    border-radius: 15px;
+    width: 250px;
+    height: 40px;
+    margin: 0px 200px;
+    border: none;
+    }
+    .imgMedio{
+        width: 90px;
+        height: 80px;
+    }
+    .imgNosotros{
+        width:100%;
+        height: auto;
+    }
+    .maps{
+        width: 900px;
+        height:500px;
+    }
+ }
